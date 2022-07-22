@@ -7,12 +7,12 @@
 <br><br>
 ---
 
-## We've studied since..👩‍💻
+## We've studied since.. 👩‍💻
 2022.07.14 ~ ing
 
 <br><br>
 
-## Reference✏️
+## Reference ✏️
 
 파이썬 머신러닝 완벽 가이드  <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[교재 링크](http://www.yes24.com/Product/Goods/69752484)<br>
