@@ -3,7 +3,7 @@
 
 ### - Goal
 
-:white_check_mark: 인프런 파이썬 머신러닝 완벽 가이드 강의 완독 목표
+:white_check_mark: 인프런 파이썬 머신러닝 완벽 가이드 강의 완독 목표 <br>
 :white_check_mark: 실습 내용 기록장
 
 <br><br>
