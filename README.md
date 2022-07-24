@@ -1,4 +1,4 @@
-# ML_DEEP_STUDY_B_2022 :dart:
+## ML_DEEP_STUDY_B_2022 :dart:
 ### 2022-2학기 DSL 머신러닝 알고리즘 심화스터디 B조<br>
 
 ### - Goal
@@ -39,9 +39,7 @@
  - [ ]  재현율의 트레이드오프(Trade off) - 02
  - [ ]  Score와 ROC-AUC 이해 - 01
  - [ ]  Score와 ROC-AUC 이해 - 02
- - [ ]  실습 - 피마 인디언 당뇨병 예측
-
-
+ - [ ]  
 ## Reference ✏️
 
 [강의 링크](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)<br>
