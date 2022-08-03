@@ -1,0 +1,47 @@
+1,170,000
+## Numpy 함수 정리
+.tolist()
+.shape
+np.isnan()
+np.nan
+
+## Pandas 함수 정리(. 앞은 df)
+
+.value_counts(dropna=False)
+.values
+.to_dict()
+.drop(lable,axis,inplace)
+.index.values
+.reset_index(drop=False) #기존 인덱스는 신
+규열로 추가
+.isna().sum() #결측치확인
+# series는 isnull()
+.fillna()
+series.apply(lambda)가능
+.map(lambda, iterative object)
+.max()
+.rename(columns={'index':'Pclass', 'Pclass':'Pclass_count'}) #기존컬럼명 일부 변경
+.sort_values(ascending=True) #오름차순 정렬
+.agg([max, min])
+[[col1]] : 한 개 열 인덱싱으로 DataFrame 생성
+.nunique()
+'''
+replace_test_df['Sex'] = replace_test_df['Sex'].replace({'male':'Man', 'female':'Woman'})
+''' # df 값 변경. df에만 적용되는 듯
+
+.apply(lambda x : get_category(x))
+pd.options.display.max_cols
+.dropna(axis=1) #결측값 있는 열 삭제
+
+1,000,000,000,000
+
+
+
+- Series 혹은 상수끼리 '+'로 더하기 연산 수행 가능.
+- df, series, index는 함부로 수정불가
+- '.'으로 열  series 호출 가능
+- lambda에서 else if 기능은 없다. 쓰고싶다면 else 안에 (if else) 중첩하여 사용가능.
+- 복잡한 함수는 def 지정 후 apply로 적용.
+- boolean indexing은 행에 적용한다고 생각하자, 왜냐하면 col 자리에서도 추가 인덱싱 가능
+
+
